@@ -14,13 +14,6 @@ El proyecto incluye:
 - Selección del modelo con mejor desempeño
 - Implementación de una API para realizar predicciones
 
-# Objetivos
-
-- Analizar datos climáticos relacionados con el cultivo de papa en Colombia.
-- Evaluar distintos modelos de Machine Learning para la predicción de temperatura óptima.
-- Seleccionar el modelo con mejor desempeño mediante métricas estadísticas.
-- Implementar una API que permita consumir el modelo entrenado.
-
 # Metodología
 
 El proyecto fue desarrollado siguiendo las siguientes etapas:
